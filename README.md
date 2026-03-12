@@ -54,5 +54,7 @@
   <img width="14" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
 </div>
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/Aboodbr/Aboodbr/blob/output/github-contribution-grid-snake.svg)
 ###
