@@ -53,7 +53,10 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo" />
 </div>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aboodbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aboodbr GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aboodbr&layout=compact&theme=tokyonight" alt="Aboodbr Top Languages" />
+</div>
 ###
 
 ## 🐍 Contribution Snake
